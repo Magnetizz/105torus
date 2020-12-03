@@ -1,6 +1,5 @@
 # 105torus
-
-{EPITECH} | First year | Math project
+# {EPITECH} | First year | Math project
 
 Drawing circles, cylinders and cones is a good start for an image synthesis software, but one have to admit
 it is not fully satisfying... 
@@ -19,16 +18,18 @@ See the subject for further details !
 
 ========================
 
-1st semester Maths unit
+## 1st semester Maths unit
 
 Grade : B | Mark : 1.5
 
-Score : 82.9%
-  - Rigor               : 100%    --- 10/10
-  - Basic               : 100%    --- 3/3
-  - Option 1            : 100%    --- 6/6
-  - Option 2            : 100%    --- 6/6
-  - Option 3            : 33.3%   --- 2/6
-  - Mathematical rigor  : 50%     --- 2/4 /!\ 1 crashed
+| Category           | Percentage | Tests | Crash ? |
+|--------------------|------------|-------|---------|
+| Rigor              | 100%       | 10/10 | x       |
+| Basic              | 100%       | 3/3   | x       |
+| Option 1           | 100%       | 6/6   | x       |
+| Option 2           | 100%       | 6/6   | x       |
+| Option 3           | 33.3%      | 2/6   | x       |
+| Mathematical rigor | 50%        | 2/4   | Yes (1) |
+| **End scores**         | **82.9%**      | **29/35** | **Yes (1)** |
   
 Beware of -42 Epitech students !!!
